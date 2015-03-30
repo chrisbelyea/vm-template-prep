@@ -2,6 +2,8 @@
 
 This script can be used for preparing a Red Hat Enterprise Linux/CentOS 6 VM to be used as a template. It was specifically designed for use in a VMware vSphere environment but can be adapted for other platforms as well.
 
+The script was heavily inspired by Bob Plankers in his [Preparing Linux Template VMs](https://lonesysadmin.net/2013/03/26/preparing-linux-template-vms/) post.
+
 ## Instructions
 
 1. Copy the script to `/root` on your VM.

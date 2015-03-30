@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script is based on information found at
-# http://lonesysadmin.net/2013/03/26/preparing-linux-template/vms/
+# https://lonesysadmin.net/2013/03/26/preparing-linux-template-vms/
 # Save it in /root
 # It should be run before converting a RHEL/CentOS 6 VM into a template.
 # Chris Belyea <chris@chrisbelyea.com>
